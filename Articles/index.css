@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.article-bg-cntr {
+  background-color: #225db0;
+  padding: 30px;
+  height: 100vh;
+}
+
+.article-heading {
+  color: #ffffff;
+  font-family: "Roboto";
+  font-size: 34px;
+}
+
+.article-description {
+  color: #ffffff;
+  font-family: "Roboto";
+  font-size: 17px;
+  margin-bottom: 38px;
+}
+
+.article-card {
+  background-color: #ffffff;
+  text-align: center;
+  border-radius: 10px;
+  padding: 10px;
+  height: 100px;
+  width: 150px;
+  margin-right: 16px;
+  margin-bottom: 16px;
+}
+
+.image {
+  width: 40px;
+}
+
+.card-heading {
+  color: #1f2933;
+  font-family: "Roboto";
+  font-size: 17px;
+  font-weight: 600;
+  margin-top: 8px;
+}
+
+.page2-bg-cntr {
+  padding: 20px;
+  background-color: #225db0;
+}
+
+.main-heading {
+  color: #ffffff;
+  font-family: "Roboto";
+  font-size: 23px;
+  margin-top: 20px;
+  margin-bottom: 24px;
+}
+
+.list {
+  color: #ffffff;
+  font-family: "Roboto";
+  font-size: 15px;
+}
+
+.topic-name {
+  margin-bottom: 16px;
+}
+
+.button {
+  color: #ffffff;
+  font-family: "Roboto";
+  font-size: 12px;
+  background-color: #225db0;
+  border: solid 1px;
+  border-color: #ffffff;
+}
+
+.button-cntr {
+  text-align: center;
+}
